@@ -32,4 +32,3 @@ def generate_summary_tables(input_file, output_file):
 input_file = "test.xlsx" #Input your path to excel file here
 output_file = "summary_tables.xlsx"
 generate_summary_tables(input_file, output_file)
-
